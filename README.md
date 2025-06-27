@@ -70,7 +70,7 @@
 
 ## 📌 Featured Projects
 
-- [Flight Quality Analysis](https://github.com/LokeswariMelapattu/flight-quality-analysis) – .NET Core Web API with Excel integration
+- [Flight Quality Analysis](https://github.com/LokeswariMelapattu/flight-quality-analysis) – .NET Core Web API with Excel integration, Code documentation, Unit Tests
 - [Order Matching Engine](https://github.com/LokeswariMelapattu/order-matching-engine) – .NET Core Service with Unit Tests
 - [Green Choices Logistics](https://github.com/LokeswariMelapattu/green-choices/tree/main/frontend) – React front-end for consuming APIs
 - [Green Choices Logistics](https://github.com/LokeswariMelapattu/green-choices/tree/main/backend) – Node.js and Express REST API with PostgreSQL
